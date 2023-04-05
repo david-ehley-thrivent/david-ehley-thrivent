@@ -1,6 +1,6 @@
 # 💻 David Ehley
 [![EnergyDrinks](https://forthebadge.com/images/badges/powered-by-energy-drinks.svg)](https://img.shields.io)
-[![Pizza]](https://img.shields.io/badge/pizza-pizza-E46C17?style=for-the-badge&logo=pizza&logoColor=white)
+[![Pizza](https://img.shields.io/badge/pizza-pizza-E46C17?style=for-the-badge&logo=pizza&logoColor=white)]
 
 ### 🧰 Languages and Tools
 
